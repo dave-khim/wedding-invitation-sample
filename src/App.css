@@ -1,0 +1,509 @@
+.col-md {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.main { 
+  width: 100%;
+  padding: 0px auto;
+}
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.container {
+  width: 100%;
+  padding : 0px 0px 0px 0px;
+}
+
+.main-image {
+  width: 100%;
+  height: auto;
+}
+
+.mainsection-text {
+  padding: 40px 0px 40px 0px;
+  gap: 12px;
+  flex-direction: column;
+  align-items: center;
+}
+.mainsection-text-1 {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  margin-bottom: 10px;
+  color: #000;
+  text-align: center;
+  font-family: 'NanumMyeongjo';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.mainsection-text-2 {
+  
+  display: flex;
+  /* flex-direction: column;
+  align-self: stretch; */
+  justify-content: center; align-items: center;
+  margin: 0px 0px 28px 0px;
+  
+  color: #000;
+  text-align: center;
+  font-family: 'NanumMyeongjo';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -0.32px;
+}
+.text2-inner {
+  font-family: 'NanumMyeongjo';
+  font-size: 22px;
+  margin: 0 5px;
+  font-style: normal;
+  font-weight: 600;
+  
+}
+
+.mainsection-text-3 {
+  color: #000;
+  text-align: center;
+  font-family: 'NanumMyeongjo';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 550;
+  line-height: 25px;
+  letter-spacing: -0.18px;
+}
+.col-4 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.gallery-image {
+  width: 100%;
+  height: auto;
+  padding: 0 3px 6px 3px;
+}
+
+.invitation-section {
+  display: flex;
+  width: 100%;
+  padding: 60px 0px;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  background: #F5EEE1;
+}
+.invitation-section-text1 {
+  margin-bottom: 32px;
+  color: #000;
+  text-align: center;
+  font-family: 'NanumMyeongjo';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 19px;
+}
+.invitation-section-text2 {
+  margin-bottom: 32px;
+  color: #000;
+  text-align: center;
+  font-family: NanumMyeongjo;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.invitation-section-text3 {
+  display: flex;
+  /* flex-direction: column;
+  align-self: stretch; */
+  justify-content: center;
+  align-items: center;
+  /* display: flex;
+  justify-content: center; 
+  align-items: center;
+  flex-direction: column;
+  flex: 1 0 0; */
+  width: 100%;
+  text-align: center;
+  font-family: 'NanumMyeongjo';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+}
+.text3-inner {
+  font-family: 'NanumMyeongjo';
+  font-size: 16px;
+  margin: 0 5px;
+  font-style: normal;
+  font-weight: 400;
+  
+}
+
+.gallery-section {
+  display: flex;
+  width: 100%;
+  padding: 60px 0px 36px 0px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.gallery-section-text {
+  color: #000;
+  text-align: center;
+  font-family: 'NanumMyeongjo';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.location-section {
+  display: flex;
+  padding: 60px 0px 36px 0px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.location-section-text1 {
+  color: #000;
+  text-align: center;
+  font-family: NanumMyeongjo;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.location-map-section {
+  z-index: 30;
+}
+.location-info-section {
+  display: flex;
+  padding: 24px 20px 40px 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 8px;
+}
+.location-info-section-text1 {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  color: #000;
+  font-family: 'NanumMyeongjo';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 20px;
+}
+.location-info-section-text2 {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  color: #000;
+  font-family: 'NanumMyeongjo';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.location-how-publictrans-section {
+  display: flex;
+  width: 100%;
+  padding: 12px 20px 24px 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 8px;
+}
+.location-how-publictrans-section-text1 {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  color: #000;
+  font-family: NanumMyeongjo;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 20px;
+}
+.location-how-publictrans-section-list {
+  display: flex;
+  padding: 0px 0px 0px 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
+  gap: 4px;
+  align-self: stretch;
+}
+.location-how-publictrans-section-list li {
+  /* display: flex; */
+  flex-direction: column;
+  align-self: stretch;
+  color: #000;
+  font-family: NanumMyeongjo;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+.location-how2-section {
+  display: flex;
+  width: 100%;
+  padding: 0px 20px 60px 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 8px;
+}
+.location-how2-section-text1 {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  color: #000;
+  font-family: NanumMyeongjo;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 20px;
+}
+.location-how2-section-text2 {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  color: #000;
+  font-family: NanumMyeongjo;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.congratulatory-section{
+  display: flex;
+  width: 100%;
+  padding: 60px 0px 80px 0px;
+  margin-bottom: 60px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  background: #F5EEE1;
+}
+.congratulatory-section-text {
+  color: #000;
+  text-align: center;
+  font-family: NanumMyeongjo;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.congratulatory-section-btn {
+  display: flex;
+  width: 330px;
+  padding: 12px 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: #FFF;
+  display: flex;
+  border-color: white;
+  color: #000;
+  text-align: center;
+  font-family: 'NotoSansKR';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+
+/* modal */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(27, 27, 27, 0.541);
+  display: flex;
+  align-items: center;
+  z-index: 100;
+}
+/* modal - image */
+.overlay img {
+  display: block;
+  max-width: 80%;
+  max-height: 80%;
+  margin: 60px auto;
+  box-shadow: 3px 5px 7px rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+.overlay > span {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 30px;
+  color: #ffffff;
+  z-index: 999;
+  cursor: pointer;
+}
+.overlay-arrows_left {
+  display: flex;
+  background-color: #6d6d6d;
+  justify-content: space-between;
+  position: absolute;
+  top: 50%;
+  width: 30px;
+  height: 30px;
+  left: 0;
+  z-index: 999;
+}
+
+.overlay-arrows_left svg {
+  width: 30px;
+  height: 30px;
+}
+
+.overlay-arrows_right svg {
+  width: 30px;
+  height: 30px;
+}
+
+.overlay-arrows_right {
+  display: flex;
+  background-color: #6d6d6d;
+  justify-content: space-between;
+  position: absolute;
+  right: 0;
+  width: 30px;
+  height: 30px;
+  top: 50%;
+  z-index: 999;
+}
+
+/* modal - account */
+.account-popup {
+  display: inline-flex;
+  /* width: 90%; */
+  margin: auto;
+  padding: 24px 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 36px;
+  border-radius: 8px;
+  background: #FFF;
+}
+.account-info-area {
+
+}
+.account-info-each {
+  display: flex;
+  width: 310px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 4px;
+}
+.each-header {
+  display: flex;
+  padding: 4px 0px;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+}
+.each-body {
+  display: flex;
+  padding: 8px 0px;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-self: stretch;
+}
+.each-title {
+  color: #000;
+  font-family: 'NotoSansKR';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.each-line {
+  width: 310px;
+  height: 1px;
+  margin: 0px 0px 0px 0px;
+  background: #E6E6E6;
+}
+.copy-success {
+  width: 310px;
+  background: #8dcd8d;
+  opacity: 70%;
+  border-radius: 3px;
+  color: #000;
+  text-align: center;
+  font-family: 'NotoSansKR';
+  font-size: 15px;
+  font-style: normal;
+}
+.each-copy-btn {
+  display: flex;
+  padding: 8px 12px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  background: #000; 
+  color: #FFF;
+  font-family: 'NotoSansKR';
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.account-popup-close {
+  display: flex;
+  width: 310px;
+  padding: 12px 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: #F1F1F1;
+  color: #000;
+  text-align: center;
+  font-family: 'NotoSansKR';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.each-account-text {
+  color: #000;
+  font-family: 'NotoSansKR';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+/* font */
+
+@font-face {
+  font-family: 'NanumMyeongjo';
+  src: local('NanumMyeongjo'), url(./fonts/Nanum_Myeongjo/NanumMyeongjo-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'NotoSansKR';
+  src: local('NotoSansKR'), url(./fonts/Noto_Sans_KR/NotoSansKR-Regular.otf) format('truetype');
+}

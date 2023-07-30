@@ -1,0 +1,78 @@
+{
+    "data" :[
+        {
+            "text" : "1",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "2",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "3",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "4",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "5",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "6",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "7",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "8",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "9",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        
+        {
+            "text" : "10",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "11",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        },
+        {
+            "text" : "12",
+            "main_image_link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg",
+            "thumb_image_link" : "https://dave-khim-aws-bucket-public.s3.ap-northeast-2.amazonaws.com/test/Screenshot+2023-07-30+at+11.45.52+PM.png",
+            "link" : "https://cdn.stocksnap.io/img-thumbs/960w/wedding-ring_WZQVVNDMIQ.jpg"
+        }
+        
+    ] 
+}
